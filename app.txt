@@ -1,3 +1,2 @@
 Ajout de la fonctionnalité 1.
-Ligne modifiée par A.
-Ligne modifiée par B.
+Ligne modifiée par A et B.
