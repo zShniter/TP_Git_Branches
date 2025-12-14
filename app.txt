@@ -1,1 +1,2 @@
 Ajout de la fonctionnalité 1.
+Ligne modifiée par A.
